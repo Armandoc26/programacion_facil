@@ -1,0 +1,3 @@
+#incluir las carpetas de los entornos virtuales para que no se suban archivos innecesarios a los repositorios de github y no ocupe tanto espacio dentro de dicho repositorio.
+
+venv/
